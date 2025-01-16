@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuit.SessionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-16T19:02:09" hostname="NDTLPZ0468" time="20.75">
+  <properties/>
+  <testcase name="LogIn()" classname="testSuit.SessionTest" time="20.75"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
